@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f82075b62d5986bbb103951e4adda9e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5b61f882d67e06e982a4bb010cd6d91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d21330ba83b982e9d83c50024ab36d18\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\224e67a992446ad70085f0e2e8a94a8d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\56c36e5d69af832b40b41bf8f8445828\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\23e54ffac118ebbd2530727048bde7d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd957ee5bc9e92201ffc9d168f035fe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ceb99da31bdccf6962f7c805ae720290\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\45ea7a2cfa24b72d9d163ef39fc429a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9095bc88b6af1678fff38cbd07ec6075\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b2b557c7b3d25b23278ddffc2c169850\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5867c4f0b9f8b451db8bc90a0b784206\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6bd050da4f5df68644a2388070f87000\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\29ed478ef84aa73366c9300cd22d40bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bafd1b8dd93e610f5f1378e35ea5c0db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3709be4dd6c75a2243fa3107143a14ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4058a9fb1d621eef17ff26aab58a2dd8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f993e6cf05c80227ae774410b1957ef1\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:1-80:12
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:9:22-69
+application
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:11:5-78:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d21330ba83b982e9d83c50024ab36d18\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d21330ba83b982e9d83c50024ab36d18\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\224e67a992446ad70085f0e2e8a94a8d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\224e67a992446ad70085f0e2e8a94a8d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:17:9-41
+activity#com.example.dcf.login.MainActivity
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:main+category:name:android.intent.category.DEFAULT
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#main
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:20:17-47
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:20:25-44
+category#android.intent.category.DEFAULT
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:22:27-73
+activity#com.example.dcf.login.login
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:noHistory
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:26:13-34
+intent-filter#action:name:login+category:name:android.intent.category.DEFAULT
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:28:13-32:29
+action#login
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:29:17-48
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:29:25-45
+activity#com.example.dcf.login.registration
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:noHistory
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:35:13-41
+intent-filter#action:name:register+category:name:android.intent.category.DEFAULT
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:37:13-41:29
+action#register
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:38:17-51
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:38:25-48
+activity#com.example.dcf.login.GameActivity
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:43:9-51:20
+	android:noHistory
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:44:13-41
+intent-filter#action:name:gameactivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:46:13-50:29
+action#gameactivity
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:47:17-55
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:47:25-52
+activity#com.example.dcf.login.Game
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:noHistory
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:53:13-33
+intent-filter#action:name:game+category:name:android.intent.category.DEFAULT
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:55:13-59:29
+action#game
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:56:17-47
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:56:25-44
+activity#com.example.dcf.login.gameover
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:noHistory
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:62:13-37
+intent-filter#action:name:gameover+category:name:android.intent.category.DEFAULT
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:64:13-68:29
+action#gameover
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:65:17-51
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:65:25-48
+activity#com.example.dcf.login.Splash
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:70:9-77:20
+	android:noHistory
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:70:42-66
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:70:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:71:13-75:29
+action#android.intent.action.MAIN
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:72:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml:74:27-74
+uses-sdk
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f82075b62d5986bbb103951e4adda9e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f82075b62d5986bbb103951e4adda9e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5b61f882d67e06e982a4bb010cd6d91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5b61f882d67e06e982a4bb010cd6d91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d21330ba83b982e9d83c50024ab36d18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d21330ba83b982e9d83c50024ab36d18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\224e67a992446ad70085f0e2e8a94a8d\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0-rc1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\volley-1.1.0-rc1.aar\224e67a992446ad70085f0e2e8a94a8d\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\56c36e5d69af832b40b41bf8f8445828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\56c36e5d69af832b40b41bf8f8445828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\23e54ffac118ebbd2530727048bde7d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\23e54ffac118ebbd2530727048bde7d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd957ee5bc9e92201ffc9d168f035fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd957ee5bc9e92201ffc9d168f035fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ceb99da31bdccf6962f7c805ae720290\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ceb99da31bdccf6962f7c805ae720290\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\45ea7a2cfa24b72d9d163ef39fc429a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\45ea7a2cfa24b72d9d163ef39fc429a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9095bc88b6af1678fff38cbd07ec6075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9095bc88b6af1678fff38cbd07ec6075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b2b557c7b3d25b23278ddffc2c169850\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b2b557c7b3d25b23278ddffc2c169850\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5867c4f0b9f8b451db8bc90a0b784206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5867c4f0b9f8b451db8bc90a0b784206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6bd050da4f5df68644a2388070f87000\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6bd050da4f5df68644a2388070f87000\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\29ed478ef84aa73366c9300cd22d40bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\29ed478ef84aa73366c9300cd22d40bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bafd1b8dd93e610f5f1378e35ea5c0db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bafd1b8dd93e610f5f1378e35ea5c0db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3709be4dd6c75a2243fa3107143a14ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3709be4dd6c75a2243fa3107143a14ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4058a9fb1d621eef17ff26aab58a2dd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4058a9fb1d621eef17ff26aab58a2dd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f993e6cf05c80227ae774410b1957ef1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\97053\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f993e6cf05c80227ae774410b1957ef1\AndroidManifest.xml:20:5-44
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\am1100\login-master\app\src\main\AndroidManifest.xml
